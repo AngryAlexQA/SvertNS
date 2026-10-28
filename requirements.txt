@@ -1,0 +1,9 @@
+tensorflow>=2.16
+keras>=3.0
+tensorboard
+numpy
+pandas
+scikit-learn
+matplotlib
+pydot        # для keras.utils.plot_model (нужен ещё системный graphviz)
+jupyter
